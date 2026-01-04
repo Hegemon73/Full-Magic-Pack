@@ -640,31 +640,64 @@ word list:
 	word: 
 		script: lang_setting("word_list_planeswalker")
 	word:
+		name: Last Seen in the Edge
+		word: Tezzeret
+	word:
+		name: Last Seen on Tarkir
+		word: Narset
+		word: Sarkhan
+		word: Ugin
+	word:
+		name: Last Seen on Avishkar
+		word: Basri
+		word: Chandra
+		name: Daretti
+		word: Yanling
+	word:
+		name: Last Seen on Duskmourn
+		word: Aminatou
+		word: Kaito
+		word: Niko
+		word: Tyvar
+	word:
+		name: Last Seen on Bloomburrow
+		word: Ral
+	word:
+		name: Last Seen on Thunder Junction
+		word: Jace
+		word: Oko
+		word: Vraska
+	word:
+		name: Last Seen on Ravnica
+		word: Angrath
+		word: Bolas
+		word: Gideon
+		word: Davriel
+		word: Domri
+		word: Dovin
+		word: Kaya
+		word: Teyo
+		word: Yanggu
+	word:
 		name: Last Seen on Ixalan
 		word: Huatli
+		word: Quintorius
 		word: Saheeli
 	word:
 		name: Last Seen on Eldraine
 		word: Ashiok
 		word: Garruk
-		word: Oko
 		word: Rowan
 		word: Will
 	word:
 		name: Last Seen on New Phyrexia
-		word: Chandra
 		word: Elspeth
-		word: Jace
-		word: Kaito
-		word: Kaya
 		word: Koth
 		word: Lukka
 		word: Nahiri
 		word: Nissa
 		word: Teferi
-		word: Tyvar
 		word: Venser
-		word: Vraska
 		word: Wrenn
 	word:
 		name: Last Seen in the Past
@@ -686,7 +719,6 @@ word list:
 		word: Nixilis
 	word:
 		name: Last Seen on Kamigawa
-		word: Tezzeret
 		word: Tamiyo		
 	word:
 		name: Last Seen on Innistrad
@@ -708,41 +740,19 @@ word list:
 		word: Liliana
 	word:
 		name: Last Seen on Kaldheim
-		word: Niko
 		word: Tibalt
 	word:
 		name: Last Seen on Zendikar
 		word: Kiora
 	word:
-		name: Last Seen on Ikoria
-		word: Narset
-	word:
 		name: Last Seen on Theros
-		word: Ashiok
 		word: Calix
 		word: Xenagos
 	word:
-		name: Last Seen on Ravnica
-		word: Angrath
-		word: Bolas
-		word: Gideon
-		word: Davriel
-		word: Domri
-		word: Dovin
-		word: Ral
-		word: Sarkhan
-		word: Samut
-		word: Teyo
-		word: Ugin
-		word: Yanggu
-		word: Yanling
-	word:
 		name: Last Seen on Fiore
 		name: Dack
-		name: Daretti
 	word:
 		name: Last Seen on ???
-		word: Aminatou
 		word: Estrid
 		word: Grist
 	word:
@@ -775,6 +785,7 @@ word list:
 			name: A
 			word: Affe
 			word: Alien
+			word: Ameisenigel
 			word: Antilope
 			word: Archon
 			word: Äthergeborener
@@ -814,6 +825,7 @@ word list:
 			word: Dauthi
 			word: Dinosaurier
 			word: Drache
+			word: Drix
 			word: Drohne
 			word: Dryade
 			word: Dschinn
@@ -867,12 +879,14 @@ word list:
 			word: Hirsch
 			word: Homarid
 			word: Homunkulus
+			word: Hummer
 			word: Hund
 			word: Hyäne
 			word: Hydra
 		word:
 			name: I
 			word: Ifrit
+			word: Igel
 			word: Illusion
 			word: Inkarnation
 			word: Insekt
@@ -992,7 +1006,7 @@ word list:
 			word: Seltsamkeit
 			word: Servo
 		word:
-			name: Si-Sz
+			name: Si-Su
 			word: Sirene
 			word: Skelett
 			word: Skorpion
@@ -1009,6 +1023,9 @@ word list:
 			word: Stachelschwein
 			word: Stinktier
 			word: Surrakar
+		word:
+			name: Sy-Sz
+			word: Symbiont
 			word: Synth
 		word:
 			name: T
@@ -1093,7 +1110,8 @@ word list:
 			word: Bürger
 			word: Clown
 		word:
-			name: D-J
+			name: D-I
+			word: Darstellar
 			word: Deserteur
 			word: Detektiv
 			word: Diener
@@ -1107,11 +1125,12 @@ word list:
 			word: Geist
 			word: Gesinde
 			word: Handwerker
+			word: Held
 			word: Hexenmeister
 			word: Inkarnation
-			word: Juggernaut
 		word:
-			name: K-P
+			name: J-P
+			word: Juggernaut
 			word: Kleriker
 			word: Krieger
 			word: Leibeigene
@@ -1136,6 +1155,7 @@ word list:
 			word: Schamane
 			word: Schlachtschiff
 			word: Schrecken
+			word: Schurke
 			word: Skelett
 			word: Soldat
 			word: Söldner
@@ -1314,6 +1334,7 @@ word list:
 			word: Beeble
 			word: Beholder
 			word: Bird
+			word: Bison
 			word: Blinkmoth
 			word: Boar
 			word: Bringer
@@ -1351,11 +1372,13 @@ word list:
 			word: Dragon
 			word: Drake
 			word: Dreadnought
+			word: Drix
 			word: Drone
 			word: Dryad
 			word: Dwarf
 		word:
 			name: E
+			word: Echidna
 			word: Efreet
 			word: Egg
 			word: Eldrazi
@@ -1375,6 +1398,7 @@ word list:
 			word: Fungus
 		word:
 			name: G
+			word: Gamma
 			word: Gargoyle
 			word: Germ
 			word: Giant
@@ -1396,6 +1420,7 @@ word list:
 			word: Halfling
 			word: Hamster
 			word: Harpy
+			word: Hedgehog
 			word: Hellion
 			word: Hippo
 			word: Hippogriff
@@ -1420,6 +1445,7 @@ word list:
 			word: Juggernaut
 		word:
 			name: K
+			word: Kangaroo
 			word: Kavu
 			word: Kirin
 			word: Kithkin
@@ -1431,11 +1457,13 @@ word list:
 			word: Lamia
 			word: Lammasu
 			word: Leech
+			word: Lemur
 			word: Leviathan
 			word: Lhurgoyf
 			word: Licid
 			word: Lizard
 			word: Llama
+			word: Lobster
 		word:
 			name: M
 			word: Manticore
@@ -1488,6 +1516,9 @@ word list:
 			word: Prism
 			word: Procupine
 		word:
+			name: Q
+			word: Qu
+		word:
 			name: R
 			word: Rabbit
 			word: Raccoon
@@ -1514,8 +1545,9 @@ word list:
 			word: Sheep
 			word: Siren
 		word:
-			name: Sk-Sp
+			name: Sk-So
 			word: Skeleton
+			word: Skrull
 			word: Skunk
 			word: Slith
 			word: Sliver
@@ -1524,6 +1556,8 @@ word list:
 			word: Snail
 			word: Snake
 			word: Soltari
+		word:
+			name: Sp-Sz
 			word: Spawn
 			word: Specter
 			word: Sphinx
@@ -1532,12 +1566,11 @@ word list:
 			word: Spirit
 			word: Splinter
 			word: Sponge
-		word:
-			name: Sq-Sz
 			word: Squid
 			word: Squirrel
 			word: Starfish
 			word: Surrakar
+			word: Symbiote
 			word: Synth
 		word:
 			name: T
@@ -1558,6 +1591,7 @@ word list:
 		word:
 			name: U
 			word: Unicorn
+			word: Utrom
 		word:
 			name: V
 			word: Vampire
@@ -1615,7 +1649,7 @@ word list:
 			word: Clown
 			word: Coward
 		word:
-			name: D-K
+			name: D-J
 			word: Deserter
 			word: Detective
 			word: Doctor
@@ -1628,13 +1662,14 @@ word list:
 			word: Flagbearer
 			word: Gamer
 			word: Guest
+			word: Hero
 			word: Horror
 			word: Incarnation
 			word: Inquisitor
 			word: Juggernaut
-			word: Knight
 		word:
-			name: L-N
+			name: K-N
+			word: Knight
 			word: Leviathan
 			word: Mercenary
 			word: Minion
@@ -1670,6 +1705,7 @@ word list:
 			word: Shaman
 			word: Skeleton
 			word: Soldier
+			word: Sorcerer
 			word: Spawn
 			word: Spellshaper
 			word: Spirit
@@ -1677,6 +1713,7 @@ word list:
 			word: Thopter
 			word: Toy
 			word: Vampire
+			word: Villain
 		word:
 			name: W-Z
 			word: Warlock
@@ -1885,8 +1922,10 @@ word list:
 			word: Draco
 			word: Dragón
 			word: Dríada
+			word: Drix
 		word:
-			name: Ef-Es
+			name: Ec-Er
+			word: Echidna
 			word: Efrit
 			word: Eldrazi
 			word: Elefante
@@ -1895,6 +1934,9 @@ word list:
 			word: Enano
 			word: Encarnación
 			word: Engendro
+			word: Erizo
+		word:
+			name: Es-Ez
 			word: Escorpión
 			word: Escultura
 			word: Esfinge
@@ -1904,8 +1946,6 @@ word list:
 			word: Esponja
 			word: Esqueleto
 			word: Estrella-de-mar
-		word:
-			name: Et-Ez
 			word: Etergénito
 			word: Extraño
 		word:
@@ -1967,6 +2007,7 @@ word list:
 			word: Lagarto
 			word: Lamia
 			word: Lammasu
+			word: Langosta
 			word: Leviatán
 			word: Lhurgoyf
 			word: Licántropo
@@ -2050,6 +2091,7 @@ word list:
 			word: Serpiente
 			word: Servo
 			word: Sierpe
+			word: Simbionte
 			word: Simio
 			word: Sirena
 			word: Slit
@@ -2116,6 +2158,7 @@ word list:
 			word: Arconte
 			word: Arquero
 			word: Artífice
+			word: Artista
 			word: Asesino
 			word: Bárbaro
 			word: Bardo
@@ -2147,6 +2190,7 @@ word list:
 			word: Guardabosque
 			word: Guerrero
 			word: Hechicero
+			word: Héroe
 			word: Horror
 			word: Huevo
 			word: Juguete
@@ -2183,6 +2227,7 @@ word list:
 			word: Traficante
 			word: Vampiro
 			word: Vástago
+			word: Villano
 			word: Zángano
 			word: Zombie
 
@@ -2200,6 +2245,7 @@ word list:
 		word: Avishkar
 		word: Bloomburrow
 		word: Capenna
+		word: Cruce de Truenos
 		word: Dominaria
 		word: Duskmourn
 		word: Eldraine
@@ -2218,7 +2264,6 @@ word list:
 		word: Rávnica
 		word: Tarkir
 		word: Theros
-		word: Thunder Junction
 		word: Ulgrotha
 		word: Zendikar
 	word:
@@ -2384,10 +2429,12 @@ word list:
 			word: Djinn
 			word: Dragon
 			word: Drakôn
+			word: Drix
 			word: Drone
 			word: Dryade
 		word:
-			name: E
+			name: Ec-Et
+			word: Échidné
 			word: Écureuil
 			word: Éfrit
 			word: Élan
@@ -2404,6 +2451,8 @@ word list:
 			word: Esprit
 			word: Éthérien
 			word: Étoile de mer
+		word:
+			name: Ev-Ez
 			word: Évolien
 			word: Extraterrestre
 		word:
@@ -2434,8 +2483,10 @@ word list:
 			word: Halfelin
 			word: Hamster
 			word: Harpie
+			word: Hérisson
 			word: Hippogriffe
 			word: Hippopotame
+			word: Homard
 			word: Homaride
 			word: Homoncule
 			word: Horreur
@@ -2568,6 +2619,7 @@ word list:
 			word: Srâne
 			word: Surrakar
 			word: Sylvin
+			word: Symbiote
 			word: Synthétique
 		word:
 			name: T
@@ -2618,13 +2670,14 @@ word list:
 			word: Archonte
 			word: Armée
 			word: Artificier
+			word: Artiste
 			word: Assassin
 			word: Barbare
 			word: Barde
 			word: Berserker
 			word: Bête
 		word:
-			name: C-D
+			name: C-E
 			word: Chevalier
 			word: Citoyen
 			word: Clerc
@@ -2638,35 +2691,35 @@ word list:
 			word: Docteur
 			word: Drone
 			word: Druide
-		word:
-			name: E-L
 			word: Éclaireur
 			word: Engeance
 			word: Esprit
+		word:
+			name: G-M
 			word: Gredin
 			word: Gréeur
 			word: Guerrier
+			word: Héros
 			word: Horreur
 			word: Incarnation
 			word: Jouet
 			word: Léviathan
 			word: Loup-garou
-		word:
-			name: M-O
 			word: Mécanoptère
+			word: Méchant
 			word: Mercenaire
 			word: Mignon
 			word: Moine
 			word: Monture
 			word: Mutant
 			word: Mystique
+		word:
+			name: N-R
 			word: Négociant
 			word: Ninja
 			word: Noble
 			word: Nomade
 			word: Œuf
-		word:
-			name: P-R
 			word: Paysan
 			word: Pilote
 			word: Pirate
@@ -2705,8 +2758,8 @@ word list:
 		word: Avishkar
 		word: Bloomburrow
 		word: Capenna
+		word: Croisetonnerre
 		word: Dominaria
-		word: Duskmourn
 		word: Eldraine
 		word: Faerûn
 		word: Ikoria
@@ -2717,13 +2770,13 @@ word list:
 		word: Lorwyn
 		word: Mercadia
 		word: Mirrodin
+		word: Mornebrune
 		word: Nouvelle Phyrexia
 		word: Rajh
 		word: Ravnica
 		word: Sombrelande
 		word: Tarkir
 		word: Theros
-		word: Thunder Junction
 		word: Ulgrotha
 		word: Zendikar
 	word:
@@ -2830,6 +2883,7 @@ word list:
 			word: Alce
 			word: Angelo
 			word: Antilope
+			word: Aragosta
 			word: Arconte
 			word: Armadillo
 			word: Arpia
@@ -2884,8 +2938,10 @@ word list:
 			word: Draghetto
 			word: Drago
 			word: Driade
+			word: Drix
 		word:
 			name: E
+			word: Echidna
 			word: Efreet
 			word: Eldrazi
 			word: Elefante
@@ -3023,6 +3079,7 @@ word list:
 			word: Ragno
 			word: Rana
 			word: Ratto
+			word: Riccio
 			word: Riflesso
 			word: Rinoceronte
 		word:
@@ -3048,6 +3105,7 @@ word list:
 			name: Sf-Sz
 			word: Sfinge
 			word: Silvantropo
+			word: Simbionte
 			word: Sintetico
 			word: Sirena
 			word: Slith
@@ -3123,6 +3181,7 @@ word list:
 			word: Arciere
 			word: Arconte
 			word: Artefice
+			word: Artista
 			word: Assassino
 			word: Assemblatore
 			word: Barbaro
@@ -3130,7 +3189,7 @@ word list:
 			word: Berserker
 			word: Bestia
 		word:
-			name: C-F
+			name: C-G
 			word: Cavalcatura
 			word: Cavaliere
 			word: Chierico
@@ -3142,13 +3201,14 @@ word list:
 			word: Discendente
 			word: Dottore
 			word: Druido
+			word: Eroe
 			word: Esercito
 			word: Esploratore
 			word: Farabutto
-		word:
-			name: G-M
 			word: Giocattolo
 			word: Guerriero
+		word:
+			name: I-O
 			word: Incarnazione
 			word: Juggernaut
 			word: Latore
@@ -3161,12 +3221,13 @@ word list:
 			word: Monaco
 			word: Mutamagia
 			word: Mutante
-		word:
-			name: N-R
+			word: Nemico
 			word: Ninja
 			word: Nobile
 			word: Nomade
 			word: Orrore
+		word:
+			name: P-R
 			word: Parassita
 			word: Pilota
 			word: Pirata
@@ -3209,6 +3270,7 @@ word list:
 		word: Avishkar
 		word: Bloomburrow
 		word: Capenna
+		word: Crocevia Tonante
 		word: Dominaria
 		word: Duskmourn
 		word: Eldraine
@@ -3227,7 +3289,6 @@ word list:
 		word: Ravnica
 		word: Tarkir
 		word: Theros
-		word: Thunder Junction
 		word: Ulgrotha
 		word: Zendikar
 	word:
@@ -3467,6 +3528,7 @@ word list:
 			word: ジン
 			word: ジャッカル
 			word: シェイド
+			word: シンビオート
 			word: シンス
 		word:
 			name: す
@@ -3523,6 +3585,7 @@ word list:
 			word: ドラゴン
 			word: ドレイク
 			word: ドレッドノート
+			word: ドリックス
 			word: ドローン
 			word: ドライアド
 			word: ドワーフ
@@ -3558,11 +3621,13 @@ word list:
 			name: は
 			word: バジリスク
 			word: 運び手
+			word: ハリモグラ
 			word: 墓生まれ
 			word: ハッグ
 			word: ハーフリング
 			word: ハムスター
 			word: ハーピー
+			word: ハリネズミ
 			word: ハイドラ
 			word: ハイエナ
 			word: ハツカネズミ
@@ -3660,6 +3725,7 @@ word list:
 			word: レイス
 		word:
 			name: ろ
+			word: ロブスター
 			word: ロボット
 		word:
 			name: わ
@@ -3683,6 +3749,7 @@ word list:
 			name: あ
 			word: アドバイザー
 			word: 暗殺者
+			word: 悪人
 		word:
 			name: い
 			word: 射手
@@ -3797,6 +3864,7 @@ word list:
 		word:
 			name: ひ
 			word: ビースト
+			word: 英雄
 			word: 飛行機械
 		word:
 			name: ふ
@@ -3989,7 +4057,7 @@ word list:
 			name: M
 			word: Moogle
 		word:
-			name: 가 - 고
+			name: 가 - 게
 			word: 가고일
 			word: 가는 리본
 			word: 개구리
@@ -3998,22 +4066,25 @@ word list:
 			word: 거북이
 			word: 거인
 			word: 게
+		word:
+			name: 고 - 그
 			word: 고래
 			word: 고르곤
 			word: 고블린
+			word: 고슴도치
 			word: 고양이
 			word: 곤충
 			word: 골렘
 			word: 곰
 			word: 공룡
 			word: 공성차
-		word:
-			name: 과 - ᄀᄒ
 			word: 광령
 			word: 굴
 			word: 그렘린
 			word: 그리핀
 			word: 그림자
+		word:
+			name: 기 - ᄀᄒ
 			word: 기계
 			word: 기린
 			word: 기스
@@ -4068,6 +4139,7 @@ word list:
 			word: 민달팽이
 		word:
 			name: ᄇ
+			word: 바늘두더지
 			word: 바다코끼리
 			word: 바실리스크
 			word: 박쥐
@@ -4090,6 +4162,7 @@ word list:
 			word: 삼엽충
 			word: 상어
 			word: 새끼용
+			word: 새우
 			word: 샐러맨더
 			word: 생쥐
 			word: 서보
@@ -5011,6 +5084,8 @@ word list:
 		word:
 			name: Е
 			word: Единорог
+			word: Ёжик
+			word: Ёжик
 			word: Енот
 		word:
 			name: З
@@ -5101,6 +5176,7 @@ word list:
 			word: Обезьяна
 			word: Овца
 			word: Огр
+			word: Омар
 			word: Оргг
 			word: Орк
 			word: Отражение
@@ -5434,11 +5510,13 @@ word list:
 			word: 光蛾
 			word: 兔
 		word:
-			name: 凡-吸
+			name: 凡-吉
 			word: 凡尔西诺
 			word: 凤凰
 			word: 分灵
 			word: 分节
+			word: 刺猬
+			word: 刺猬
 			word: 化身
 			word: 半人马
 			word: 半兽人
@@ -5450,10 +5528,10 @@ word list:
 			word: 变形兽
 			word: 史芬斯
 			word: 吉斯人
+		word:
+			name: 后-奴
 			word: 后裔
 			word: 吸血鬼
-		word:
-			name: 哈-宁
 			word: 哈痞
 			word: 四钙石
 			word: 圣者
@@ -5469,9 +5547,9 @@ word list:
 			word: 奥夫
 			word: 奥札奇
 			word: 奴兽
-			word: 宁芙
 		word:
-			name: 害-异
+			name: 宁-异
+			word: 宁芙
 			word: 害獸
 			word: 害虫
 			word: 家鼠
@@ -5668,6 +5746,7 @@ word list:
 			word: 鼹鼠
 			word: 龙
 			word: 龙兽
+			word: 龙虾
 			word: 龟
 
 
@@ -5906,9 +5985,11 @@ word list:
 			word: 兔
 			word: 凡爾西諾
 		word:
-			name: 分-四
+			name: 分-哈
 			word: 分節
 			word: 分靈
+			word: 刺蝟
+			word: 刺蝟
 			word: 化身
 			word: 半人馬
 			word: 半獸人
@@ -5922,9 +6003,9 @@ word list:
 			word: 吉斯人
 			word: 吸血鬼
 			word: 哈痞
-			word: 四鈣石
 		word:
-			name: 地-寇
+			name: 四-密
+			word: 四鈣石
 			word: 地侏
 			word: 地獄獸
 			word: 塔拉科斯
@@ -5941,9 +6022,9 @@ word list:
 			word: 害蟲
 			word: 家鼠
 			word: 密封件
-			word: 寇族
 		word:
-			name: 寧-惡
+			name: 寇-惡
+			word: 寇族
 			word: 寧芙
 			word: 小惡魔
 			word: 山羊
@@ -6141,6 +6222,7 @@ word list:
 			word: 鼴鼠
 			word: 龍
 			word: 龍獸
+			word: 龍蝦
 			word: 龜
 
 

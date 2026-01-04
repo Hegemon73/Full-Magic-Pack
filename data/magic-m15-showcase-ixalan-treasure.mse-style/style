@@ -75,6 +75,8 @@ init script:
 	]
 	
 	card_stamp_offset_top_1 := { if stamp_shape() == "triangle" then 6 else 0 }
+	alias_offset_top_1 :={-3}
+	alias_colors := { rgb(100, 100, 100) }
 	
 	template_prefix :=	[card: "card/", pt: "pt/", crown: "crown/", identity: "/magic-modules.mse-include/indicators/"]
 	template_suffix :=	[card: "card.png", pt: "pt.png", crown: "crown.png", identity: "identity.png"]
@@ -97,7 +99,7 @@ init script:
 		)
 	}
 	pt_colors := { if styling.PT_color_scheme == "canon" then pt_colors_canon() else styling.PT_color_scheme }
-	pt_colors_canon := { if is_hybrid_cost() then "land" else "gold" }
+	pt_colors_canon := { if contains(card.card_color, match: "hybrid") then "land" else "gold" }
 	
 	is_promo := { styling.promo }
 	
@@ -196,6 +198,8 @@ include file: /magic-modules.mse-include/namelines/card_fields
 include file: /magic-modules.mse-include/typelines/card_fields
 
 include file: /magic-modules.mse-include/foils/card_fields
+
+include file: /magic-modules.mse-include/alias/card_fields
 
 card style:
 	############################# Background stuff
