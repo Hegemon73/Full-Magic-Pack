@@ -167,6 +167,7 @@ languages := [
 			+ "Ausrüstung,"
 			+ "Befestigung,"
 			+ "Blut,"
+			+ "Book,"
 			+ "Fahrzeug,"
 			+ "Gerät,"
 			+ "Gold,"
@@ -235,6 +236,7 @@ languages := [
 			+ "Dakkon,"
 			+ "Daretti,"
 			+ "Davriel,"
+			+ "Dellian,"
 			+ "Dihada,"
 			+ "Domri,"
 			+ "Dovin,"
@@ -323,6 +325,7 @@ languages := [
 			+ "Bestie,"
 			+ "Betrachter,"
 			+ "Biber,"
+			+ "Bison,"
 			+ "Blinkmotte,"
 			+ "Bobbel,"
 			+ "Bold,"
@@ -406,6 +409,7 @@ languages := [
 
 			  "Kalmar,"
 			+ "Kamel,"
+			+ "Känguru,"
 			+ "Kaninchen,"
 			+ "Karibu,"
 			+ "Katze,"
@@ -426,6 +430,7 @@ languages := [
 			+ "Lamia,"
 			+ "Lammasu,"
 			+ "Leiche,"
+			+ "Lemur,"
 			+ "Leviathan,"
 			+ "Lhurgoyf",
 
@@ -474,7 +479,8 @@ languages := [
 			+ "Pilzwesen,"
 			+ "Plasma",
 
-			  "Qualle",
+			  "Q,"
+			+ "Qualle",
 
 			  "Ratte,"
 			+ "Reflexion,"
@@ -541,7 +547,8 @@ languages := [
 			+ "Troll",
 
 			  "Überträger,"
-			+ "Ungeziefer",
+			+ "Ungeziefer,"
+			+ "Utrom",
 
 			  "Vampir,"
 			+ "Vedalken,"
@@ -931,6 +938,7 @@ languages := [
 			  "Attraction,"
 			+ "Blood,"
 			+ "Bobblehead,"
+			+ "Book,"
 			+ "Clue,"
 			+ "Contraption,"
 			+ "Equipment,"
@@ -1001,6 +1009,7 @@ languages := [
 			+ "Dakkon,"
 			+ "Daretti,"
 			+ "Davriel,"
+			+ "Dellian,"
 			+ "Dihada,"
 			+ "Domri,"
 			+ "Dovin,"
@@ -1720,6 +1729,7 @@ languages := [
 			+ "Astronave,"
 			+ "Aterrizador,"
 			+ "Attraction,"
+			+ "Book,"
 			+ "Cabezón,"
 			+ "Comida,"
 			+ "del-Infinito,"
@@ -1727,7 +1737,7 @@ languages := [
 			+ "Fortificación,"
 			+ "Incubadora,"
 			+ "Mapa,"
-			+ "Mutagen,"
+			+ "Mutágeno,"
 			+ "Oro,"
 			+ "Piedra,"
 			+ "Piedra de poder,"
@@ -1789,6 +1799,7 @@ languages := [
 			+ "Dakkon,"
 			+ "Daretti,"
 			+ "Davriel,"
+			+ "Dellian,"
 			+ "Dihada,"
 			+ "Domri,"
 			+ "Dovin,"
@@ -1879,6 +1890,7 @@ languages := [
 			+ "Ballena,"
 			+ "Basilisco,"
 			+ "Bestia,"
+			+ "Bisonte,"
 			+ "Brillo,"
 			+ "Buey",
 
@@ -1889,6 +1901,7 @@ languages := [
 			+ "Camárido,"
 			+ "Camello,"
 			+ "Cangrejo,"
+			+ "Canguro,"
 			+ "Capibara,"
 			+ "Caracol,"
 			+ "Caribú,"
@@ -1995,6 +2008,7 @@ languages := [
 			+ "Lamia,"
 			+ "Lammasu,"
 			+ "Langosta,"
+			+ "Lémur,"
 			+ "Leviatán,"
 			+ "Lhurgoyf,"
 			+ "Licántropo,"
@@ -2054,7 +2068,8 @@ languages := [
 			+ "Puercoespín,"
 			+ "Pulpo",
 
-			  "Quimera",
+			  "Qu,"
+			+ "Quimera",
 
 			  "Rana,"
 			+ "Rata,"
@@ -2100,7 +2115,8 @@ languages := [
 
 			  "Unicornio,"
 			+ "Uómbat,"
-			+ "Uro",
+			+ "Uro,"
+			+ "Utrom",
 
 			  "Vampiro,"
 			+ "Vedalken,"
@@ -2469,6 +2485,7 @@ languages := [
 		word_list_artifact:
 			  "Appareil,"
 			+ "Attraction,"
+			+ "Book,"
 			+ "Bric-à-brac,"
 			+ "Carte,"
 			+ "Équipement,"
@@ -2479,7 +2496,7 @@ languages := [
 			+ "Infinité,"
 			+ "Lithoforce,"
 			+ "Module de descente,"
-			+ "Mutagen,"
+			+ "Mutagène,"
 			+ "Nourriture,"
 			+ "Or,"
 			+ "Pierre,"
@@ -2541,6 +2558,7 @@ languages := [
 			+ "Dakkon,"
 			+ "Daretti,"
 			+ "Davriel,"
+			+ "Dellian,"
 			+ "Dihada,"
 			+ "Domri,"
 			+ "Dovin,"
@@ -2623,6 +2641,7 @@ languages := [
 			+ "Basilic,"
 			+ "Belette,"
 			+ "Bête,"
+			+ "Bison,"
 			+ "Blaireau,"
 			+ "Bosquérisson,"
 			+ "Bovidé",
@@ -2734,15 +2753,18 @@ languages := [
 
 			  "Jouet",
 
-			  "Kavru,"
+			  "Kangourou,"
+			+ "Kavru,"
 			+ "Kirin,"
 			+ "Kobold,"
-			+ "Kraken",
+			+ "Kraken,"
+			+ "Kwe",
 
 			  "Lama,"
 			+ "Lamassu,"
 			+ "Lamie,"
 			+ "Lapin,"
+			+ "Lémure,"
 			+ "Léviathan,"
 			+ "Lézard,"
 			+ "Lhurgoyf,"
@@ -2856,6 +2878,8 @@ languages := [
 			+ "Triskelavite,"
 			+ "Troll,"
 			+ "Tyrannœil",
+
+			  "Utrom",
 
 			  "Vampire,"
 			+ "Vedalken,"
@@ -3225,6 +3249,7 @@ languages := [
 		word_list_artifact:
 			  "Astronave,"
 			+ "Attraction,"
+			+ "Book,"
 			+ "Cibo,"
 			+ "Congegno,"
 			+ "Equipaggiamento,"
@@ -3235,7 +3260,7 @@ languages := [
 			+ "Infinito,"
 			+ "Lander,"
 			+ "Mappa,"
-			+ "Mutagen,"
+			+ "Mutagene,"
 			+ "Oro,"
 			+ "Pietra,"
 			+ "Pietra del Potere,"
@@ -3296,6 +3321,7 @@ languages := [
 			+ "Dakkon,"
 			+ "Daretti,"
 			+ "Davriel,"
+			+ "Dellian,"
 			+ "Dihada,"
 			+ "Domri,"
 			+ "Dovin,"
@@ -3381,6 +3407,7 @@ languages := [
 			+ "Basilisco,"
 			+ "Beholder,"
 			+ "Bestia,"
+			+ "Bisonte,"
 			+ "Bizzarria,"
 			+ "Bradipo,"
 			+ "Bue,"
@@ -3389,6 +3416,7 @@ languages := [
 			  "Calamaro,"
 			+ "Camarid,"
 			+ "Cammello,"
+			+ "Canguro,"
 			+ "Canide,"
 			+ "Capibara,"
 			+ "Capra,"
@@ -3480,6 +3508,7 @@ languages := [
 			+ "Lammasu,"
 			+ "Lampidottero,"
 			+ "Latore,"
+			+ "Lemure,"
 			+ "Leviatano,"
 			+ "Lhurgoyf,"
 			+ "Lontra,"
@@ -3542,6 +3571,8 @@ languages := [
 			  "Pungiglione,"
 			+ "Pungitore,"
 			+ "Puzzola",
+
+			  "Qu",
 
 			  "Ragno,"
 			+ "Rana,"
@@ -3607,7 +3638,8 @@ languages := [
 			+ "Umano,"
 			+ "Unicorno,"
 			+ "Uovo,"
-			+ "Uri",
+			+ "Uri,"
+			+ "Utrom",
 
 			  "Vampiro,"
 			+ "Vedalken,"
@@ -3976,7 +4008,7 @@ languages := [
 		message_drops_no_lands             : "!! 土地が見つかりません。土地ドロップに当たる確率は 0% !!"
 
 		word_list_artifact:
-			  "Mutagen,"
+			  "Book,"
 			+ "Terminus,"
 			+ "アトラクション,"
 			+ "宝物,"
@@ -3991,6 +4023,7 @@ languages := [
 			+ "培養器,"
 			+ "宇宙船,"
 			+ "ストーン,"
+			+ "ミュータンジェン,"
 			+ "手掛かり,"
 			+ "城砦,"
 			+ "装備品,"
@@ -4034,7 +4067,8 @@ languages := [
 			+ "出来事,"
 			+ "講義",
 		word_list_planeswalker:
-			  "アジャニ,"
+			  "Dellian,"
+			+ "アジャニ,"
 			+ "アショク,"
 			+ "アミナトゥ,"
 			+ "アーリン,"
@@ -4174,6 +4208,7 @@ languages := [
 			+ "ガーゴイル,"
 			+ "神,"
 			+ "カバ,"
+			+ "カンガルー,"
 			+ "カヴー,"
 			+ "カワウソ,"
 			+ "カキ,"
@@ -4188,6 +4223,7 @@ languages := [
 			+ "ギス,"
 			+ "麒麟,"
 			+ "キスキン,"
+			+ "キツネザル,"
 			+ "奇魔",
 
 			  "組立作業員,"
@@ -4198,6 +4234,7 @@ languages := [
 			+ "グリフィン,"
 			+ "クラゲ,"
 			+ "クラーケン,"
+			+ "ク族,"
 			+ "黒貂,"
 			+ "蜘蛛,"
 			+ "吸血鬼,"
@@ -4320,6 +4357,7 @@ languages := [
 			+ "ノッグル",
 
 			  "バジリスク,"
+			+ "バイソン,"
 			+ "運び手,"
 			+ "ハリモグラ,"
 			+ "墓生まれ,"
@@ -4387,7 +4425,8 @@ languages := [
 			  "ヤギ,"
 			+ "ヤマアラシ",
 
-			  "ユニコーン",
+			  "ユニコーン,"
+			+ "ユートロム",
 
 			  "ラクダ,"
 			+ "ラミア,"
@@ -4797,6 +4836,7 @@ languages := [
 		word_list_artifact:
 			  "Attraction,"
 			+ "Bobblehead,"
+			+ "Book,"
 			+ "Infinity,"
 			+ "Junk,"
 			+ "Lander,"
@@ -4857,6 +4897,7 @@ languages := [
 			+ "Comet,"
 			+ "Dack,"
 			+ "Daretti,"
+			+ "Dellian,"
 			+ "Estrid,"
 			+ "Freyalise,"
 			+ "Guff,"
@@ -5014,6 +5055,7 @@ languages := [
 			  "바늘두더지,"
 			+ "바다코끼리,"
 			+ "바실리스크,"
+			+ "바이슨,"
 			+ "박쥐,"
 			+ "반신,"
 			+ "뱀,"
@@ -5074,6 +5116,7 @@ languages := [
 			+ "엘크,"
 			+ "엘프,"
 			+ "여우,"
+			+ "여우원숭이,"
 			+ "염소,"
 			+ "영양,"
 			+ "오록스,"
@@ -5119,6 +5162,7 @@ languages := [
 
 			  "카부,"
 			+ "카피바라,"
+			+ "캥거루,"
 			+ "켄타우로스,"
 			+ "코끼리,"
 			+ "코르,"
@@ -5505,6 +5549,7 @@ languages := [
 			  "Aparelho,"
 			+ "Attraction,"
 			+ "Bonequinho,"
+			+ "Book,"
 			+ "Comida,"
 			+ "Equipamento,"
 			+ "Fortificação,"
@@ -5574,6 +5619,7 @@ languages := [
 			+ "Dakkon,"
 			+ "Daretti,"
 			+ "Davriel,"
+			+ "Dellian,"
 			+ "Dihada,"
 			+ "Domri,"
 			+ "Dovin,"
@@ -5665,6 +5711,7 @@ languages := [
 			+ "Basilisco,"
 			+ "Beliscador,"
 			+ "Besta,"
+			+ "Bisão,"
 			+ "Bizarro,"
 			+ "Bode,"
 			+ "Boi,"
@@ -5675,6 +5722,7 @@ languages := [
 			  "Camárida,"
 			+ "Camelo,"
 			+ "Camundongo,"
+			+ "Canguru,"
 			+ "Capivara,"
 			+ "Caranguejo,"
 			+ "Carcaju,"
@@ -5775,6 +5823,7 @@ languages := [
 			  "Lagarto,"
 			+ "Lâmia,"
 			+ "Lammasu,"
+			+ "Lêmure,"
 			+ "Lesma,"
 			+ "Lesma,"
 			+ "Leviatã,"
@@ -6134,7 +6183,7 @@ languages := [
 		is_wastes         : match@(match: "(?i)Пустоши")
 
 		is_class		  : match@(match: "(?i)Класс")
-		is_case			  : match@(match: "(?i)Класс")
+		is_case			  : match@(match: "(?i)Case")
 		is_room			  : match@(match: "(?i)Комната")
 		is_adventure	  : match@(match: "(?i)Приключение")
 		is_nyx			  : match@(match: "(?i)Чары ")
@@ -6247,6 +6296,7 @@ languages := [
 		word_list_artifact:
 			  "Attraction,"
 			+ "Bobblehead,"
+			+ "Book,"
 			+ "Infinity,"
 			+ "Junk,"
 			+ "Lander,"
@@ -6306,6 +6356,7 @@ languages := [
 			  "Aminatou,"
 			+ "Comet,"
 			+ "Dack,"
+			+ "Dellian,"
 			+ "Estrid,"
 			+ "Freyalise,"
 			+ "Guff,"
@@ -6399,6 +6450,7 @@ languages := [
 			+ "Бегемот,"
 			+ "Белка,"
 			+ "Бес,"
+			+ "Бизон,"
 			+ "Бобр,"
 			+ "Бог,"
 			+ "Броненосец,"
@@ -6478,6 +6530,7 @@ languages := [
 			+ "Карга,"
 			+ "Карибу,"
 			+ "Карлик,"
+			+ "Кенгуру,"
 			+ "Кентавр,"
 			+ "Кирин,"
 			+ "Кискен,"
@@ -6504,6 +6557,7 @@ languages := [
 			+ "Ламмасу,"
 			+ "Ласка,"
 			+ "Левиафан,"
+			+ "Лемур,"
 			+ "Ленивец,"
 			+ "Лесовик,"
 			+ "Летучая-мышь,"
@@ -6972,6 +7026,7 @@ languages := [
 		word_list_artifact:
 			  "Attraction,"
 			+ "Bobblehead,"
+			+ "Book,"
 			+ "Infinity,"
 			+ "Junk,"
 			+ "Lander,"
@@ -7029,6 +7084,7 @@ languages := [
 			+ "预兆",
 		word_list_planeswalker:
 			  "Comet,"
+			+ "Dellian,"
 			+ "Estrid,"
 			+ "Guff,"
 			+ "Vronos,"
@@ -7229,6 +7285,7 @@ languages := [
 			+ "犀牛,"
 			+ "犰狳,"
 			+ "狐,"
+			+ "狐猴,"
 			+ "独眼巨人,"
 			+ "独角兽,"
 			+ "狮鹫",
@@ -7297,20 +7354,22 @@ languages := [
 			+ "蟹,"
 			+ "蠕虫,"
 			+ "袋熊,"
+			+ "袋鼠,"
 			+ "裂片妖,"
 			+ "触手,"
 			+ "诺格,"
 			+ "象,"
-			+ "豪猪,"
-			+ "豺狼,"
-			+ "豺狼人",
+			+ "豪猪",
 
-			  "负鼠,"
+			  "豺狼,"
+			+ "豺狼人,"
+			+ "负鼠,"
 			+ "轻灵,"
 			+ "造妖,"
 			+ "道西,"
 			+ "郊狼,"
 			+ "野兽,"
+			+ "野牛,"
 			+ "野猪,"
 			+ "钳手,"
 			+ "阴魂,"
@@ -7318,12 +7377,12 @@ languages := [
 			+ "雕像,"
 			+ "雪怪,"
 			+ "雪貂,"
-			+ "非瑞人,"
-			+ "章人,"
-			+ "章鱼,"
-			+ "飞马",
+			+ "非瑞人",
 
-			  "食人魔,"
+			  "章人,"
+			+ "章鱼,"
+			+ "飞马,"
+			+ "食人魔,"
 			+ "马,"
 			+ "驯鹿,"
 			+ "骆驼,"
@@ -7336,12 +7395,12 @@ languages := [
 			+ "魔人,"
 			+ "魔像,"
 			+ "魔神,"
-			+ "魔鬼,"
-			+ "鱼,"
-			+ "鲨鱼,"
-			+ "鲸鱼",
+			+ "魔鬼",
 
-			  "鳄鱼,"
+			  "鱼,"
+			+ "鲨鱼,"
+			+ "鲸鱼,"
+			+ "鳄鱼,"
 			+ "鸟,"
 			+ "鹦鹉螺,"
 			+ "麋鹿,"
@@ -7703,6 +7762,7 @@ languages := [
 		word_list_artifact:
 			  "Attraction,"
 			+ "Bobblehead,"
+			+ "Book,"
 			+ "Infinity,"
 			+ "Junk,"
 			+ "Lander,"
@@ -7760,6 +7820,7 @@ languages := [
 			+ "預兆",
 		word_list_planeswalker:
 			  "Comet,"
+			+ "Dellian,"
 			+ "Estrid,"
 			+ "Guff,"
 			+ "Vronos,"
@@ -7955,6 +8016,7 @@ languages := [
 			+ "犀牛,"
 			+ "犰狳,"
 			+ "狐,"
+			+ "狐猴,"
 			+ "狼,"
 			+ "狼人,"
 			+ "狼獾,"
@@ -7963,10 +8025,10 @@ languages := [
 			+ "獅鷲,"
 			+ "獨眼巨人,"
 			+ "獨角獸,"
-			+ "獵犬,"
-			+ "獾",
+			+ "獵犬",
 
-			  "玩具,"
+			  "獾,"
+			+ "玩具,"
 			+ "異獅,"
 			+ "病媒,"
 			+ "真菌,"
@@ -8022,6 +8084,7 @@ languages := [
 			  "蠍子,"
 			+ "蠕蟲,"
 			+ "袋熊,"
+			+ "袋鼠,"
 			+ "裂片妖,"
 			+ "觸手,"
 			+ "诺格,"
@@ -8034,10 +8097,11 @@ languages := [
 			+ "貓鼬,"
 			+ "負鼠,"
 			+ "輕靈,"
-			+ "造妖,"
-			+ "道西",
+			+ "造妖",
 
-			  "郊狼,"
+			  "道西,"
+			+ "郊狼,"
+			+ "野牛,"
 			+ "野獸,"
 			+ "野豬,"
 			+ "钳手,"
@@ -8051,11 +8115,11 @@ languages := [
 			+ "飛馬,"
 			+ "食人魔,"
 			+ "馬,"
-			+ "馴鹿,"
-			+ "駱駝,"
-			+ "骆驼",
+			+ "馴鹿",
 
-			  "駿鷹,"
+			  "駱駝,"
+			+ "骆驼,"
+			+ "駿鷹,"
 			+ "驚懼獸,"
 			+ "骷髏妖,"
 			+ "鬣狗,"
@@ -8069,11 +8133,11 @@ languages := [
 			+ "魚,"
 			+ "鯊魚,"
 			+ "鯨魚,"
-			+ "鱆人,"
-			+ "鱷魚,"
-			+ "鳥",
+			+ "鱆人",
 
-			  "鳳凰,"
+			  "鱷魚,"
+			+ "鳥,"
+			+ "鳳凰,"
 			+ "鸚鵡螺,"
 			+ "麋鹿,"
 			+ "麒麟,"
